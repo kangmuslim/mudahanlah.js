@@ -1,0 +1,2 @@
+# mudahanlah.js
+mudahanlah
